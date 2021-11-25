@@ -1,0 +1,7 @@
+HDD Seagate 500ГБ BarraCuda;2935
+HDD Toshiba 2000ГБ P300;4600
+HDD Toshiba 3000ГБ P300;5961
+HDD Toshiba 4000ГБ X300;8559
+HDD Western Digital 6 ТБ Blue;14378
+HDD Western Digital 12 ТБ Purple;34783
+HDD Western Digital 18 ТБ Purple Surveillance;50100
